@@ -1,4 +1,4 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ethernet 1"
+    name="eth0"
     id="bd2a2773-ac8d-497a-a19a-9171b49c0f8d"/>
