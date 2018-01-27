@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Bandwidth"
+    id="6b565169-7bd8-4549-877d-796092351633">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_12eff4e6-9c60-49ea-ad21-3174d04d475f.xml#12eff4e6-9c60-49ea-ad21-3174d04d475f"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_019281dd-37d1-403b-bfab-7a31f11ca8cc.xml#019281dd-37d1-403b-bfab-7a31f11ca8cc"/>
+</archimate:FlowRelationship>
