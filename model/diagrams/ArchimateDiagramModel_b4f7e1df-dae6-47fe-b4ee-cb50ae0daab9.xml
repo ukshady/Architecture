@@ -48,19 +48,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="6a6ad961-26aa-40d0-8647-6ef57f448d12"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
-    <bounds
-        x="1920"
-        y="1662"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Path"
-        href="Path_1e792e8e-d427-432c-aae3-8e0ff943fb7a.xml#1e792e8e-d427-432c-aae3-8e0ff943fb7a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="4229dce1-bbc4-407a-bf66-14eb0a249a25"
       targetConnections="428d0e4f-b7a3-4142-b821-9b1cf5e7a0d0"
       font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
