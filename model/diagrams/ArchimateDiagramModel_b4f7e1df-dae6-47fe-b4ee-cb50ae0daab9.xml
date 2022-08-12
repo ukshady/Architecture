@@ -1518,4 +1518,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_ee0ba2a3-ee58-4c4d-8856-e656c08b4de0.xml#ee0ba2a3-ee58-4c4d-8856-e656c08b4de0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3ea18ec0118b4d8c9eeb7c160a8d3233">
+    <bounds
+        x="876"
+        y="422"
+        width="208"
+        height="165"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-5c9ddd94d33e48a48655a75d7bc270b1.xml#id-5c9ddd94d33e48a48655a75d7bc270b1"/>
+  </children>
 </archimate:ArchimateDiagramModel>
