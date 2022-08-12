@@ -1415,7 +1415,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3ea18ec0118b4d8c9eeb7c160a8d3233">
+      id="id-3ea18ec0118b4d8c9eeb7c160a8d3233"
+      font="1|Segoe UI|20.25|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
     <bounds
         x="876"
         y="422"
